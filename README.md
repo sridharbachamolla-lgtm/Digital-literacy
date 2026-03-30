@@ -5,7 +5,7 @@
 * **Name:** Bachamolla Sridhar
 * **Registration Number:** 25MIP10013
 * **Course:** CSE0001 – Digital Literacy
-* **Branch:** [Your Branch]
+* **Branch:** [CSE Data Science]
 * **Year:** First Year B.Tech
 * **University:** VIT Bhopal University
 
@@ -98,10 +98,10 @@ I created a case study on UPI and online payment fraud and prepared a “Stay Sa
 
 # Important Links
 
-* **GitHub Profile:** []
+* **GitHub Profile:** [https://github.com/sridharbachamolla-lgtm]
 * **LinkedIn Profile:** [www.linkedin.com/in/sridhar-bachamolla-9b51563bb]
 * **Kaggle Profile:** [https://www.kaggle.com/sridharbachamolla]
-* **Google Form Link:** [Paste your Google Form link here]
+* **Google Form Link:** [https://docs.google.com/forms/d/e/1FAIpQLScXHhriJGu9tIdkEBa_787ZXKXoQz19t-1v1L3MK0yr-AvFWw/viewform?usp=publish-editor]
 * **Project Report:** `report/Project_Report.pdf`
 
 ---
