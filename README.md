@@ -6,7 +6,7 @@
 * **Registration Number:** 25MIP10013
 * **Course:** CSE0001 – Digital Literacy
 * **Branch:** [CSE Data Science]
-* **Year:** First Year B.Tech
+* **Year:** First Year Integrated M.Tech
 * **University:** VIT Bhopal University
 
 ---
